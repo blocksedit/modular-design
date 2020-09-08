@@ -1,19 +1,19 @@
-# Blocks Edit editable tags
+# Making HTML templates editable
 ### Blocks Edit's library of tags to define editable features in your email template
 
-**The Blocks Edit CMS framework is a simple library of tags based on classes, styles, and attributes that you add to your HTML code to define editable features.** However, with full flexibility comes great responsibility! While these set of properties are designed to work with any kind of custom-coded HTML template, it may take some finessing to get right. In the same way HTML and CSS are conceptually simple, it's in the practice of using them that yields powerful results.
+**The Blocks Edit CMS framework is a simple library of tags based on classes, styles, and attributes that you add to your HTML code to define editable features.** It follows [modular design](https://blocksedit.com/email-template-guide/) practices and standard [production systems](https://blocksedit.com/email-design-system/) so it works around your email template code.
 
-*See also: [Thinking in Blocks](https://blocksedit.com/developer/getting-started/), a video walkthrough of adding tags to an example template.*
+See also: [Considerations for setting up your template](https://blocksedit.com/developer/getting-started/) | [Example template code](https://blocksedit.com/developer/editable-email/)
 
 - **Content:** Pieces of text, images, and links [View tags →](https://blocksedit.com/developer/content/)
 
-- **Sections:** Stackable layout options [View tags →](https://blocksedit.com/developer/sections/)
+- **Components** Stand-alone functional elements [View tags →](https://blocksedit.com/developer/components/)
 
 - **Regions:** Customizable areas that can't be moved around [View tags →](https://blocksedit.com/developer/regions/)
 
-- **Components** iconComponents: Stand-alone functional elements [View tags →](https://blocksedit.com/developer/components/)
+- **Sections:** Stackable containers for layout options [View tags →](https://blocksedit.com/developer/sections/)
 
-- **Groups:** Alternate versions of certain content areas to choose from [View tags →](https://blocksedit.com/developer/groups/)
+- **Groups:** Design variations of areas to choose from [View tags →](https://blocksedit.com/developer/groups/)
 
 ## Working with your template
 

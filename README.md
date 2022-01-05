@@ -2,6 +2,8 @@
 
 The modular design method is a model for improving the production process for websites, emails, and landing pages. It uses components-based design and layout patterns that overlap structural coding practices. Its simple definitions allow it to be used across team roles as a way to help each person better describe and understand structure and essentially speak the same language throughout the design workflow.
 
+<img src="modular-design-elements.png" />
+
 ### Content as data
 
 The bottom level consists of **content** in its raw form, as text pieces and images. This helps separate content from design and aesthetics. It treats content as data and allows for dynamic content to be brought in using data sources.
@@ -24,8 +26,8 @@ Stacked sections are part of a **frame** that includes the header and footer are
 
 ## Making HTML visually editable
 
-The Blocks Edit is a CMS that uses a simple library of tags of classes or styles, and attributes, that you add to your HTML code to enable editable features. It follows the modular design method and compliments standard design systems. [More info →](https://blocksedit.com/developer/)
+The Blocks Edit is a CMS that uses a simple library of tags of classes or styles, and attributes, that you add to your HTML code to enable features in its visual editor. It follows the modular design method and compliments standard design systems. [More info →](https://blocksedit.com/developer/)
 
-## See also
+## Resources
 - [Modular template guide](https://blocksedit.com/email-template-guide/)
 - [Design system guide](https://blocksedit.com/email-design-system/)

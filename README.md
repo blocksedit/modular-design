@@ -1,23 +1,31 @@
-# Modular design method
+# The Modular Design Method
 
-Having an underlying design foundation allows everyone to better organize what they're already doing and essentially speak the same language throughout the design workflow. A modular template consists of the following:
+The modular design method is a model for improving the production process for websites, emails, and landing pages. It uses components-based design and layout patterns that overlap structural coding practices. Its simple definitions allow it to be used across team roles as a way to help each person better describe and understand structure and essentially speak the same language throughout the design workflow.
 
-**Content**
-Text pieces and images
+### Content as data
 
-**Components**
-Reusable, standalone elements like buttons and titles, the building blocks of your content which should work by themselves in a range of contexts
+The bottom level consists of **content** in its raw form, as text pieces and images. This helps separate content from design and aesthetics. It treats content as data and allows for dynamic content to be brought in using data sources.
 
-**Regions**
-Groups of content content pieces and components, arranged in a specific way that can't be moved around
+### Design components
 
-**Sections**
-Stackable containers of regions between the header and footer to create an overall layout
+Among content pieces are functional design elements: buttons, headlines, formatted lists, callouts, banners, etc. Standalone, reusable **components** that accompany content. They are the building blocks of your content and should work in a range of contexts. These components are often developed as part of a design system that documents guidelines for their proper usage.
 
-## Making HTML templates editable
+### Grouping of content and components
 
-The Blocks Edit CMS framework is a simple library of tags of classes or styles, and attributes that you add to your HTML code to define editable features. It follows the modular design method and compliments standard design systems. [More info →](https://blocksedit.com/developer/)
+The next level up are **regions**, which group content and components. They are essentially part of a column in a grid-based layout system. And they become functional as repeatable listings.
+
+### Stackable containers
+
+Above regions are **sections** which act as larger containers around regions. They are rows, stacked on top of each other, each consisting of their own columns and creating an overall layout.
+
+### Framing all the pieces
+
+Stacked sections are part of a **frame** that includes the header and footer areas.
+
+## Making HTML visually editable
+
+The Blocks Edit is a CMS that uses a simple library of tags of classes or styles, and attributes, that you add to your HTML code to enable editable features. It follows the modular design method and compliments standard design systems. [More info →](https://blocksedit.com/developer/)
 
 ## See also
-- [Template guide](https://blocksedit.com/email-template-guide/)
+- [Modular template guide](https://blocksedit.com/email-template-guide/)
 - [Design system guide](https://blocksedit.com/email-design-system/)
